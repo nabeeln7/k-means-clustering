@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+spambase.zip
+spambase/
+reference/
+__pycache__/
